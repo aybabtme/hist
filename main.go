@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"github.com/aybabtme/uniplot/histogram"
 	"io"
 	"io/ioutil"
 	"log"
@@ -13,8 +12,8 @@ import (
 	"strconv"
 	"time"
 
-	// "github.com/aybabtme/uniplot/histogram"
-	"github.com/codegangsta/cli"
+	"github.com/aybabtme/hist/Godeps/_workspace/src/github.com/aybabtme/uniplot/histogram"
+	"github.com/aybabtme/hist/Godeps/_workspace/src/github.com/codegangsta/cli"
 )
 
 const (

@@ -1,0 +1,18 @@
+{
+	"ImportPath": "github.com/aybabtme/hist",
+	"GoVersion": "go1.5.1",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/aybabtme/uniplot/histogram",
+			"Rev": "039c559e5e7e0512b313109b11266bf6fe2db223"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/cli",
+			"Comment": "1.2.0-179-g0302d39",
+			"Rev": "0302d3914d2a6ad61404584cdae6e6dbc9c03599"
+		}
+	]
+}
