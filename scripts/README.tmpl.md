@@ -2,7 +2,7 @@
 
 Plots histograms for values read from stdin.
 
-# usage
+## usage
 
 ```bash
 hist -re '(\d+\.\d+)'                      # regexp used to match
@@ -27,7 +27,7 @@ wget -qO- https://github.com/aybabtme/hist/releases/download/{{.version}}/hist_l
 wget -qO- https://github.com/aybabtme/hist/releases/download/{{.version}}/hist_darwin.tar.gz | tar xvz
 ```
 
-# example
+## example
 
 ```bash
 $ cat file.log
