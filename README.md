@@ -18,13 +18,13 @@ hist -re '(\d+\.\d+)'                      # regexp used to match
 ### linux
 
 ```bash
-wget -qO- https://github.com/aybabtme/hist/releases/download/0.1/hist_linux.tar.gz | tar xvz
+wget -qO- https://github.com/aybabtme/hist/releases/download/0.1.1/hist_linux.tar.gz | tar xvz
 ```
 
 ### darwin
 
 ```bash
-wget -qO- https://github.com/aybabtme/hist/releases/download/0.1/hist_darwin.tar.gz | tar xvz
+wget -qO- https://github.com/aybabtme/hist/releases/download/0.1.1/hist_darwin.tar.gz | tar xvz
 ```
 
 ## example
